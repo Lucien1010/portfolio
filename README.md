@@ -1,1 +1,1 @@
-link: https://lucien1010.github.io/portfolio/resume/index.html
+link: https://lucien1010.github.io/portfolio/index.html
