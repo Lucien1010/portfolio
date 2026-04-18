@@ -38,7 +38,8 @@ html {
 
 input,
 textarea,
-button {
+button,
+select {
   font: inherit;
 }
 
@@ -146,4 +147,12 @@ nav {
 nav a:hover {
   border-bottom: 0.4em solid var(--color-accent);
   background-color: color-mix(in oklch, var(--color-accent), canvas 85%);
+}
+
+.color-scheme {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  font-size: 80%;
+  font-family: inherit;
 }
