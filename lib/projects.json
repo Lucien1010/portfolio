@@ -1,18 +1,21 @@
 [
   {
-    "title": "Project 1",
+    "title": "UCSD Parking Occupancy Analysis",
+    "year": "2025",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "This is a description of Project 1."
+    "description": "A statistical analysis project studying whether parking occupancy rates differ by permit type across UCSD campus parking structures."
   },
   {
-    "title": "Project 2",
+    "title": "SoCalGuessr Image Classification Model",
+    "year": "2025",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "This is a description of Project 2."
+    "description": "A DSC 140B project building a lightweight machine learning model to classify Southern California city images using HOG, RGB, and color features."
   },
   {
-    "title": "Project 3",
+    "title": "FoodTok's Influence on Google Trends",
+    "year": "2025",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "This is a description of Project 3."
+    "description": "Analyzed the relationship between viral FoodTok content and Google search trends. The project looks at whether spikes in TikTok food videos correspond to increases in public interest measured through search data."
   },
   {
     "title": "Project 4",
