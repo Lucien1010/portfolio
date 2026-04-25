@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Project 1",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a description of Project 1."
+  },
+  {
+    "title": "Project 2",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a description of Project 2."
+  },
+  {
+    "title": "Project 3",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a description of Project 3."
+  },
+  {
+    "title": "Project 4",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a description of Project 4."
+  },
+  {
+    "title": "Project 5",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a description of Project 5."
+  },
+  {
+    "title": "Project 6",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a description of Project 6."
+  },
+  {
+    "title": "Project 7",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a description of Project 7."
+  },
+  {
+    "title": "Project 8",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a description of Project 8."
+  },
+  {
+    "title": "Project 9",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a description of Project 9."
+  },
+  {
+    "title": "Project 10",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a description of Project 10."
+  },
+  {
+    "title": "Project 11",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a description of Project 11."
+  },
+  {
+    "title": "Project 12",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "This is a description of Project 12."
+  }
+]
