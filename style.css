@@ -88,6 +88,14 @@ button {
   height: auto;
 }
 
+.project-year {
+  font-family: Baskerville, serif;
+  font-variant-numeric: oldstyle-nums;
+  color: #666;
+  font-style: italic;
+  margin-top: 0.5em;
+}
+
 h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
   text-wrap: balance;
