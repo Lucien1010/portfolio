@@ -18,10 +18,10 @@
     "description": "Analyzed the relationship between viral FoodTok content and Google search trends. The project looks at whether spikes in TikTok food videos correspond to increases in public interest measured through search data."
   },
   {
-    "title": "Project 4",
+    "title": "Bikewatching",
     "year": "2026",
-    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-    "description": "This is a description of Project 4."
+    "image": "../images/Bikewatching.png",
+    "description": "An interactive geospatial visualization exploring Bluebikes traffic patterns across Boston and Cambridge using Mapbox and D3."
   },
   {
     "title": "Project 5",
